@@ -31,7 +31,7 @@
 <img width="2560" height="1303" alt="2025-09-09_22-38-30" src="https://github.com/user-attachments/assets/fd51b792-f4f4-435e-a828-5a6d1f654b05" />
 
 ## Режим Prototype:
-<img width="2560" height="1406" alt="2025-09-09_18-15-09" src="https://github.com/user-attachments/assets/437a2f5a-b2c2-4161-9b88-261d4cc2eef9" />
+<img width="2560" height="1600" alt="2025-09-09_23-19-14" src="https://github.com/user-attachments/assets/ad158e29-32fc-46f5-8505-6ebbea1d73b8" />
 
 ## Режим Present.
 
